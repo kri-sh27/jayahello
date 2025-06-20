@@ -1,0 +1,4 @@
+flask
+flask-cors
+jsonify
+send_from_directory
